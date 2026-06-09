@@ -1,0 +1,1 @@
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
